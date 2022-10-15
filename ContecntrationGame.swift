@@ -37,7 +37,7 @@ class ConcentrationGame {
             let card = Card()
             cards += [card, card]
         }
-        // TODO: Shuffle the cards
+        // DO: Shuffle the cards
         cards.shuffle()
     }
 }
